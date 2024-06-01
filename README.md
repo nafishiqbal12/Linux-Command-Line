@@ -20,7 +20,7 @@
 
 ## Linux File System Tree:
 
-<img src="file.png">
+<img src="images.png">
 
 
 * **bin:** binary (commands and utilities that all users can run)
